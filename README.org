@@ -1,0 +1,13 @@
+#+TITLE: Jet Physics
+#+AUTHOR: Alexander Huss
+#+STARTUP: showall
+#+LATEX_HEADER: \usepackage[a4paper]{geometry}
+#+LATEX_HEADER: \usepackage{mathtools}
+
+This is the repository containing the slides and homework for the [[https://indico.mitp.uni-mainz.de/event/204/][MITP School 2021: The Amplitude Games]] on "Jet Physics".
+
+Recording of the lectures:
+- [[https://www.youtube.com/watch?v=Stykhl3mza4&list=PLejkXpUan6WEqle5MQttuFK2_TWzJSUNw][lecture 1]]
+- [[https://www.youtube.com/watch?v=Qx_kQUN_Ncg&list=PLejkXpUan6WEqle5MQttuFK2_TWzJSUNw&index=2][lecture 2]]
+- [[https://www.youtube.com/watch?v=LTJZGcQkMwE&list=PLejkXpUan6WEqle5MQttuFK2_TWzJSUNw&index=3][lecture 3]]
+- [[https://www.youtube.com/watch?v=G6-0YkvXBj0&list=PLejkXpUan6WEqle5MQttuFK2_TWzJSUNw&index=4][lecture 4]]
